@@ -29,7 +29,6 @@ body{
     width: auto;
     height: 60vh;
     display: flex;
-    
 }
 .left{
     width: 50%;
@@ -64,7 +63,6 @@ button:hover {
 .right ul {
     list-style-type: none;
 }
-
 footer {
     width: auto;
     height: 10vh;
